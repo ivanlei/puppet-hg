@@ -1,8 +1,9 @@
-# Class: hg
+# == Class: hg
 #
 # This class installs mercurial source control
 #
-# Sample Usage:
+# === Examples
+# 
 #  class { 'hg': }
 #
 class hg {

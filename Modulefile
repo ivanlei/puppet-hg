@@ -1,0 +1,7 @@
+name          'ivanlei-hg'
+version       '1.0.0'
+summary       'Puppet module for installing mercurial'
+description   'Puppet module for installing mercurial'
+source        'https://github.com/ivanlei/puppet-hg.git'
+project_page  'https://github.com/ivanlei/puppet-hg'
+license       'http://unlicense.org/'
